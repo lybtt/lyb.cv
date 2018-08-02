@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lybtt/lyb.cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+      
+# 个人信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - lyb/男/1994 
+ - 本科/中南大学粉末冶金研究院 
+ - 工作年限：3年
+ - Github：https://github.com/lybtt
+ - 期望职位：Python高级程序员，应用架构师
+ - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望城市：上海
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 技能清单
 
-```markdown
-Syntax highlighted code block
+以下均为我熟练使用的技能
 
-# Header 1
-## Header 2
-### Header 3
+- Web框架：Django
+- 前端框架：Bootstrap
+- 数据库相关：MySQL/PgSQL/MongoDB/redis
+- scrapy,pyspider,
 
-- Bulleted
-- List
+      
+# 开源项目和作品
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 开源项目
+（对于程序员来讲，没有什么比Show me the code能有说服力了）
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 技术文章
+（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lybtt/lyb.cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 演讲和讲义
+（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
+
+
+    
+    
+# 联系方式
+
+（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
+
+- 手机：135.... （如果是外地手机，可注明。如经常关机，要写上最优联系时间）
+- Email：goodman@gmail.com （虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G，非要用的话，不要用数字邮箱名）
+- QQ/微信号：6...（提供一个通过网络可以联系到你的方式）
+
+
+---      
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
